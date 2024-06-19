@@ -129,7 +129,7 @@
 //   for (let i = 1; i <= n; i++) {
 //     let son = 1.0 + i / 10.0;
 //     sum += ishora * son;
-//     sign *= -1;
+//     sum *= -1;
 //   }
 //   console.log(sum);
 // }
